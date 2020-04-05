@@ -1,0 +1,3 @@
+/home/workspace/CppND-Capstone-Plane-Game/build/CMakeFiles/rebuild_cache.dir
+/home/workspace/CppND-Capstone-Plane-Game/build/CMakeFiles/DualGame.dir
+/home/workspace/CppND-Capstone-Plane-Game/build/CMakeFiles/edit_cache.dir

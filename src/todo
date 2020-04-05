@@ -1,0 +1,16 @@
+1- remove any raw pointer and replace it with the proper one
+2- make randomizer generic ---Done
+3- use images --- Done
+4- make sure you have mutix lock --Done
+5- make sure you have con_var implemented --- Done
+6- make sure you have file write and read implemented --- Done
+7- Fix the close button (corner of the window (x-close button)) it usually move you to the next level ----- Done
+8- Edit the readme.md file
+9- Edit the title bar  --- Done
+
+
+Future plans:
+10- The obstacle enlarge and shrink on random intervals
+11- one pressing control button and the control is shifted from car to car it is better to make the active car highlighted (e.g. different  color or border)
+12- Optimize the code .
+13- use SDL_image to use different images and optimize image use.
